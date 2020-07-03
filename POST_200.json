@@ -1,0 +1,26 @@
+{
+  "id": "I8E0A-IGIXJ-CIKJW-WHHIU",
+  "sessionId": null,
+  "buildId": 1,
+  "userId": 1,
+  "username": "sawan1",
+  "baseUrl": null,
+  "tunnelId": null,
+  "createdAt": "2018-09-28T11:10:39.000Z",
+  "startedAt": null,
+  "endedAt": null,
+  "status": "initiated",
+  "remark": "",
+  "hub": {
+    "id": "LNRC-195-201-160-166-HUB-192-168-2-6",
+    "name": "Window-10-lc",
+    "ip": "127.0.0.1",
+    "port": "4444",
+    "region": "eu-central-1",
+    "testId": "I8E0A-IGIXJ-CIKJW-WHHIU",
+    "session": 1,
+    "startedAt": "2018-09-28T11:10:31.000Z",
+    "terminatedAt": null,
+    "status": "active"
+  }
+}

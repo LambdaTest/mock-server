@@ -1,0 +1,21 @@
+{
+   "issues":0,
+   "id":"73D1Z-WSNU6-WUIAV-EM1VE",
+   "userId":861,
+   "orgId":852,
+   "username":"nikhily",
+   "status":"queued",
+   "buildId":1784,
+   "name":"parallelTest[78] os x 10.9-firefox-61.0",
+   "visibility":"public",
+   "tunnelIdentifier":"",
+   "initiallyQueued":1,
+   "idleTimeout":90,
+   "queueTimeout":900,
+   "infraTimeout":900,
+   "stepTimeout":300,
+   "osVersion":"mavericks",
+   "browser":"firefox-61",
+   "seleniumVersion":"3.12.0",
+   "driverVersion":"v0.23.0"
+}

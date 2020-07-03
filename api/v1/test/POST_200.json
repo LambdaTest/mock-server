@@ -1,0 +1,21 @@
+{
+  "id": "I8E0A-IGIXJ-CIKJW-WHHIU",
+  "sessionId": "1",
+  "buildId": 0,
+  "userId": 1,
+  "username": "nikhily",
+  "email": "nikhily@lamdatest.com",
+  "baseUrl": "",
+  "tunnelId": 0,
+  "createdAt": "2018-09-28T11:10:39.000Z",
+  "startedAt": "2018-09-28T11:10:39.000Z",
+  "endedAt": "2018-09-28T11:10:39.000Z",
+  "status": "initiated",
+  "idleTimeout": 90,
+  "queueTimeout": 900,
+  "infraTimeout": 900,
+  "osVersion": "mojave",
+  "browser": "chrome-67",
+  "seleniumVersion": "3.13.0",
+  "driverVersion": "2.13"
+}
